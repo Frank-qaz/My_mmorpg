@@ -69,16 +69,16 @@
      <None Include="Assets\Shader\MyMobile VertexLit Diffuse.shader" />
      <None Include="Assets\References\protobuf-net.xml" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>D:/work/location/ExtremeWorld/Mymmorpg/Src/Client/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>D:/work/location/ExtremeWorld/My_mmorpg/Src/Client/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>D:/work/location/ExtremeWorld/Mymmorpg/Src/Client/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>D:/work/location/ExtremeWorld/My_mmorpg/Src/Client/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>D:/work/location/ExtremeWorld/Mymmorpg/Src/Client/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>D:/work/location/ExtremeWorld/My_mmorpg/Src/Client/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>D:/work/location/ExtremeWorld/Mymmorpg/Src/Client/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>D:/work/location/ExtremeWorld/My_mmorpg/Src/Client/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>D:/work/unity_editor/2018.2.3f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -279,19 +279,19 @@
  <HintPath>D:/work/unity_editor/2018.2.3f1/Editor/Data/UnityExtensions/Unity/UnitySpatialTracking/RuntimeEditor/UnityEngine.SpatialTracking.dll</HintPath>
  </Reference>
  <Reference Include="Newtonsoft.Json">
- <HintPath>D:/work/location/ExtremeWorld/Mymmorpg/Src/Client/Assets/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll</HintPath>
+ <HintPath>D:/work/location/ExtremeWorld/My_mmorpg/Src/Client/Assets/JsonDotNet/Assemblies/Standalone/Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="Common">
- <HintPath>D:/work/location/ExtremeWorld/Mymmorpg/Src/Client/Assets/References/Common.dll</HintPath>
+ <HintPath>D:/work/location/ExtremeWorld/My_mmorpg/Src/Client/Assets/References/Common.dll</HintPath>
  </Reference>
  <Reference Include="log4net">
- <HintPath>D:/work/location/ExtremeWorld/Mymmorpg/Src/Client/Assets/References/log4net.dll</HintPath>
+ <HintPath>D:/work/location/ExtremeWorld/My_mmorpg/Src/Client/Assets/References/log4net.dll</HintPath>
  </Reference>
  <Reference Include="protobuf-net">
- <HintPath>D:/work/location/ExtremeWorld/Mymmorpg/Src/Client/Assets/References/protobuf-net.dll</HintPath>
+ <HintPath>D:/work/location/ExtremeWorld/My_mmorpg/Src/Client/Assets/References/protobuf-net.dll</HintPath>
  </Reference>
  <Reference Include="Protocol">
- <HintPath>D:/work/location/ExtremeWorld/Mymmorpg/Src/Client/Assets/References/Protocol.dll</HintPath>
+ <HintPath>D:/work/location/ExtremeWorld/My_mmorpg/Src/Client/Assets/References/Protocol.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Analytics">
  <HintPath>C:/Users/Frank/AppData/Local/Unity/cache/packages/packages.unity.com/com.unity.analytics@2.0.16/UnityEngine.Analytics.dll</HintPath>
